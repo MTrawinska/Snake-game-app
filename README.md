@@ -4,7 +4,7 @@ Simple, oldschoool Nokia 3310 style SNAKE GAME
 
 Rules:
 
-Use your keybords to move the snake: up, left, right, and down, Points are added when snake eat apple, Do not run the snake into his own tail as your points will be substracted
+Use your keybords to move the snake: up, left, right, and down. Points are added when snake eat apple. Do not run the snake into his own tail as your points will be substracted
 
 Requirements: Vanilla Js, CSS3, HTML5.
 

@@ -12,12 +12,12 @@ Screenshots:
 
 Start fo the game
 
-![game start](https://github.com/MTrawinska/Memory-Game-Basic/blob/master/static/img/1.png)
+![game start](https://github.com/MTrawinska/Snake-game-app/blob/master/img/1.png)
 
 While playing
 
-![game start](https://github.com/MTrawinska/Memory-Game-Basic/blob/master/static/img/1.png)
+![game start](https://github.com/MTrawinska/Snake-game-app/blob/master/img/2.png)
 
-CODE ON DEMAND 
+CODE ON DEMAND - please contact me to see code
 
 Just simple and crisp project. Please do not copy or share without contacting.

@@ -10,7 +10,7 @@ Requirements: Vanilla Js, CSS3, HTML5.
 
 Screenshots:
 
-Start fo the game
+Start of the game
 
 ![game start](https://github.com/MTrawinska/Snake-game-app/blob/master/img/1.png)
 

@@ -18,6 +18,6 @@ While playing
 
 ![game start](https://github.com/MTrawinska/Snake-game-app/blob/master/img/2.png)
 
-! CODE ON DEMAND - please contact me to see code
+! CODE ON DEMAND - please contact me to see the code
 
 Just simple and crisp project.

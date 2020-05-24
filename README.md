@@ -1,6 +1,6 @@
 # Snake-game-app
 
-Simple, oldschoool Nokia 3310 style SNAKE GAME
+Simple, oldschoool Nokia 3310 retro style [SNAKE GAME](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
 
 Rules:
 

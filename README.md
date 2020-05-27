@@ -8,6 +8,8 @@ Use your keybords to move the snake: up, left, right, and down. Points are added
 
 Requirements: Vanilla Js, CSS3, HTML5.
 
+[LIVE VERSION](https://www.pythonanywhere.com/user/MTrawinska/files/home/MTrawinska/snake_game/snakeApp.html)
+
 Screenshots:
 
 Start of the game
